@@ -22,6 +22,7 @@
 <br>
 <br>
     Exceptions:
+
 - [ValueError](Bank.py) - формат ввода
 - [class ValueBankError](My_exception.py) - валидность значений cash
 
@@ -29,6 +30,7 @@
 <br>
 <br>
     Exceptions:
+
 - [ValFormatError](My_exception.py) - валидность формата матриц при различных операциях
 
 
